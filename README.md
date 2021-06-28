@@ -1,2 +1,2 @@
 # RosettaCode_Ada
-Auf der Webseite RosettaCode veröffenlichte viele verschiedene Probleme sind mit Ada Programmiersprache zu lösen.
+In diesem Projektarchiv werden auf der Webseite RosettaCode veröffenlichte viele verschiedene Probleme mit Ada Programmiersprache gelöst werden.
