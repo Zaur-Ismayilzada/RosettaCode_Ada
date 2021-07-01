@@ -1,5 +1,5 @@
 --GNAT 8.3.0
---Aufgabestellung: http://rosettacode.org/wiki/Chinese_zodiac
+--Aufgabenstellung: http://rosettacode.org/wiki/Chinese_zodiac
 
 with Ada.Text_IO; 			use Ada.Text_IO;
 with Ada.Strings.Unbounded; use Ada.Strings.Unbounded;
