@@ -1,4 +1,4 @@
---Aufgabestellung: http://rosettacode.org/wiki/Bell_numbers
+--Aufgabenstellung: http://rosettacode.org/wiki/Bell_numbers
 
 with Ada.Text_IO; use Ada.Text_IO;
 procedure Main is
